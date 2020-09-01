@@ -13,3 +13,6 @@ A custom network monitor made with the purpose of being an open-source program u
 This will have customizable themes and layouts to suit your needs
 
 ## STIL IN ALPHA DEVELOPMENT ##
+
+
+### Please note that this is my first Windows Application so there will probally not be perfect ###
