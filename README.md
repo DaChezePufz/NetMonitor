@@ -18,4 +18,4 @@ This will have customizable themes and layouts to suit your needs
 There will be 32 and 64bit releases
 And there will be other things.
 
-#### Suggestions are accepted and encouraged.
+#### Suggestions are accepted and encouraged
