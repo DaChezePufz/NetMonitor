@@ -12,4 +12,4 @@ A custom network monitor made with the purpose of being an open-source program u
 
 This will have customizable themes and layouts to suit your needs
 
-### STIL IN ALPHA DEVELOPMENT
+### STILL IN ALPHA DEVELOPMENT
