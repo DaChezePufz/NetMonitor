@@ -12,3 +12,10 @@ A custom network monitor made with the purpose of being an open-source program u
 ## Customization
 
 This will have customizable themes and layouts to suit your needs
+
+### Other
+
+There will be 32 and 64bit releases
+And there will be other things.
+
+#### Suggestions are accepted and encouraged.
